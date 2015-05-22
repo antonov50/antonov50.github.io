@@ -5,7 +5,7 @@ $(function() {
         clientId: '97ae5f4c024c4a91804f959f43f2635f',
         target: 'instafeed',
         get: 'tagged',
-        tagName: 'photographyportfolio',
+        tagName: 'antonov50',
         links: true,
         limit: 8,
         sortBy: 'most-recent',
