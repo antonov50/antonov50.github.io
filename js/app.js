@@ -8,7 +8,7 @@ $(function() {
         get: 'tagged',
         tagName: 'antonov50',
         sortBy: 'most-recent',
-        limit: 8,
+        limit: 56,
         links: true,
         resolution: 'standard_resolution',
         target: 'instafeed',
